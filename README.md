@@ -1,6 +1,6 @@
-# vue-cli-example
+# vue-cli-tutorial
 
-> This is a tutorial for vue.js
+Create a login form using vue.cli and vuex
 
 ## Build Setup
 
